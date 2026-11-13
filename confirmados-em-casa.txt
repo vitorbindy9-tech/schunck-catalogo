@@ -6,11 +6,13 @@ PlusMaisUm.br@HD
 1001Noites.br@SD
 AmazonSat.br@SD
 ArarunaTV.br@SD
+AratuOn.br@SD
 AWTV.br@HD
 BemMaisTV.br@HD
 Blitstv.br@SD
 BMCNews.br@SD
 BoxKidsTV.br@SD
+Canal38.br@SD
 CanalEducacao.br@SD
 CanalFDR.br@SD
 CanalGov.br@SD
@@ -53,11 +55,11 @@ NovaEraTV.br@SD
 NTV.br@SD
 ODiaTV.br@SD
 PetloversTV.br@SD
+PlenaTV.br@SD
 PlenitudeTV.br@SD
 PrimerTV.br@SD
 RBATV.br@SD
 RedeBrasil.br@SD
-RedeGospel.br@SD
 RedeMeioNorte.br@SD
 RedeMinas.br@SD
 RedeNGT.br@SD
@@ -79,8 +81,8 @@ TVAliancaCatarinense.br@SD
 TVAlternativa.br@SD
 TVAparecida.br@SD
 TVArapuan.br@SD
-TVBahia.br@HD
 TVBrasil.br@SD
+TVBrasilOeste.br@SD
 TVBRICSPortuguese.br@SD
 TVBrusque.br@SD
 TVCamara.br@SD
@@ -122,7 +124,6 @@ TVERS.br@SD
 TVideoNews.br@SD
 TVitape.br@SD
 TVLatinaSat.br@HD
-TVNBN.br@SD
 UMATV.br@HD
 VEJAPlusTV.br@HD
 ADBTV.pt@SD
