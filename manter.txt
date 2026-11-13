@@ -1,0 +1,6 @@
+# Canais que nunca devem sair do catálogo, mesmo falhando na verificação.
+# Use para canais que funcionam na sua casa mas falham no teste do GitHub
+# (o teste roda fora do Brasil e alguns sinais só abrem daqui).
+# Um por linha: o nome exato do canal ou o ID (coluna ID da planilha).
+TV Brasil
+TV Cultura
