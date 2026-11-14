@@ -1,4 +1,587 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="PremiereClubes.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiereclubes/index.m3u8
+#EXTINF:-1 tvg-id="PremiereClubes.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/ea2a7e6a7b67fd100434f8e70372722c/error.txt
+#EXTINF:-1 tvg-id="SporTV.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/sportv.png",SporTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv/index.m3u8
+#EXTINF:-1 tvg-id="SporTV.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/sportv.png",SporTV · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/844ab4ed6b36e05b6be81336f67cfce2/error.txt
+#EXTINF:-1 tvg-id="SporTV2.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/sportv2.png",SporTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv2/index.m3u8
+#EXTINF:-1 tvg-id="SporTV3.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/sportv3.png",SporTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv3/index.m3u8
+#EXTINF:-1 tvg-id="SporTV3.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/sportv3.png",SporTV 3 · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/46cd8a19f0ce7ef4bde08a7d1959aed7/error.txt
+#EXTINF:-1 tvg-id="CanalOFF.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/off.png",Canal OFF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/canaloff/index.m3u8
+#EXTINF:-1 tvg-id="CanalOFF.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/off.png",Canal OFF · Reserva 1
+http://45.185.11.126:8000/play/a07t/index.m3u8
+#EXTINF:-1 tvg-id="CanalOFF.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/off.png",Canal OFF · Reserva 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/3fd7f48cf317af5d6ff994282813e4d4/error.txt
+#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/espn.png",ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/espn2.png",ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/espn2.png",ESPN 2 · Reserva 1
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/espn2
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/538c3083c58490c9dbf70382b96bc0f0/error.txt
+#EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/espn3.png",ESPN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/espn3.png",ESPN 3 · Reserva 1
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/espn3
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/e04a0c5b32b106ea6122385566ef1155/error.txt
+#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/espn4.png",ESPN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn4/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/espn4.png",ESPN 4 · Reserva 1
+#EXTVLCOPT:audio-language=pt-BR,por,pt
+http://45.185.11.126:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/espn4.png",ESPN 4 · Reserva 2
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/espn4
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/a2f3afe7c8d29a91bb286fc41a19a6a2/error.txt
+#EXTINF:-1 tvg-id="ESPN5.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/espn5.png",ESPN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn5/index.m3u8
+#EXTINF:-1 tvg-id="ESPN5.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/espn5.png",ESPN 5 · Reserva 1
+#EXTVLCOPT:audio-language=pt-BR,por,pt
+http://45.185.11.126:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-id="ESPN5.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/espn5.png",ESPN 5 · Reserva 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/5f02b07c4905806243ca4df5c341f78f/error.txt
+#EXTINF:-1 tvg-id="ESPN6.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/espn6.png",ESPN 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn6/index.m3u8
+#EXTINF:-1 tvg-id="ESPN6.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/espn6.png",ESPN 6 · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/d51ab7927aa577a2cee4bfebe28f804f/error.txt
+#EXTINF:-1 tvg-id="BandSports.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/bandsports.png",BAND SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandsports/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/bandsports.png",BAND SPORTS HD · Reserva 1
+http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/bandsports.png",BAND SPORTS HD · Reserva 2
+http://170.83.16.50/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/bandsports.png",BAND SPORTS HD · Reserva 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/66b106aec5fa5bcb832d606fccc80ce3/error.txt
+#EXTINF:-1 tvg-id="Woohoo.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://mondrian.claro.com.br/channels/inverse/woohoo.png",Woohoo
+http://170.83.16.50/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="FishTV.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://mondrian.claro.com.br/channels/inverse/fish-tv.png",Fish TV
+http://170.83.16.50/FISH_TV/index.m3u8
+#EXTINF:-1 tvg-id="XSports.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/xsports.png",X Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/cf787dcc67b19017d949f7f1b626cc09/error.txt
+#EXTINF:-1 tvg-id="NSports.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://mondrian.claro.com.br/channels/inverse/nsports.png",N SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/nsports/index.m3u8
+#EXTINF:-1 tvg-id="CanalGOATJogo1.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="1080p" tvg-logo="http://logos.appscms.xyz/logos/2025/canalgoat.png",Canal GOAT (Jogo 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/canalgoat/index.m3u8
+#EXTINF:-1 tvg-id="Combate.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/combate.png",Combate
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/combate/index.m3u8
+#EXTINF:-1 tvg-id="Combate.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/combate.png",Combate · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/bd579bc2d9ed9add379ebddd77404d2f/error.txt
+#EXTINF:-1 tvg-id="Disney06.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png",Disney+ 06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus06/index.m3u8
+#EXTINF:-1 tvg-id="Disney08.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://vipcanais.net/images/disneyplus.png",Disney+ 08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus08/index.m3u8
+#EXTINF:-1 tvg-id="SportyNet.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/sportynet.png",SportyNet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet/index.m3u8
+#EXTINF:-1 tvg-id="SportyNet.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Esportes" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/sportynet.png",SportyNet · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/98f6a64620cf9c9573efd968d3860f24/error.txt
+
+#EXTINF:-1 tvg-id="AMC.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/amc.png",AMC
+http://45.185.11.126:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="AMC.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/amc.png",AMC · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/ee232fce870e4a976f07802176b3cf2b/error.txt
+#EXTINF:-1 tvg-id="AMCSeries.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://vipcanais.net/images/amcseries.png",AMC Séries
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/amcseries/index.m3u8
+#EXTINF:-1 tvg-id="AXN.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/axn.png",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/axn/index.m3u8
+#EXTINF:-1 tvg-id="AXN.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/axn.png",AXN · Reserva 1
+http://170.83.16.50/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXN.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/axn.png",AXN · Reserva 2
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/axn
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/f71b10d706e64cefcabf042aa1af1e31/error.txt
+#EXTINF:-1 tvg-id="Cinemax.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/cinemax.png",Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cinemax/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/cinemax.png",Cinemax · Reserva 1
+#EXTVLCOPT:audio-language=pt-BR,por,pt
+http://45.185.11.126:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/cinemax.png",Cinemax · Reserva 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/7edfa600af97b048fa67e9ee8176807a/error.txt
+#EXTINF:-1 tvg-id="GloboplayNovelas.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/globonovelas.prev.png",Globoplay Novelas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/a05247565148a9fa10e483c4ffe6e861/error.txt
+#EXTINF:-1 tvg-id="HBO.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/hbo.png",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbo/index.m3u8
+#EXTINF:-1 tvg-id="HBO.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/hbo.png",HBO · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/e434fc83edb2a4937afc55e6de464fad/error.txt
+#EXTINF:-1 tvg-id="HBO2.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/hbo2.png",HBO2
+http://45.185.11.126:8000/play/a08o/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/hbofamily.png",HBO Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbofamily/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/hbofamily.png",HBO Family · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/252d24a1ba8c1c56117b6c8383f3db97/error.txt
+#EXTINF:-1 tvg-id="HBOMundi.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/hbomundi.png",HBO Mundi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbomundi/index.m3u8
+#EXTINF:-1 tvg-id="HBOMundi.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/hbomundi.png",HBO Mundi · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/2c33f0e024d3c361d4434c9c379d8eeb/error.txt
+#EXTINF:-1 tvg-id="HBOPlus.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/hboplus.png",HBO Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboplus/index.m3u8
+#EXTINF:-1 tvg-id="HBOPop.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/hbopop.png",HBO Pop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbopop/index.m3u8
+#EXTINF:-1 tvg-id="HBOPop.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/hbopop.png",HBO Pop · Reserva 1
+http://45.185.11.126:8000/play/a08s/index.m3u8
+#EXTINF:-1 tvg-id="HBOPop.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/hbopop.png",HBO Pop · Reserva 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/7a324e1c3ae23c2697e74df88080caa2/error.txt
+#EXTINF:-1 tvg-id="HBOSignature.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-signature.png",HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbosignature/index.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png",HBO Xtreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboxtreme/index.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png",HBO Xtreme · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/0f32e02cb62ba95871f1f65432fd4ae5/error.txt
+#EXTINF:-1 tvg-id="Megapix.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/megapix.png",Megapix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/megapix/index.m3u8
+#EXTINF:-1 tvg-id="Megapix.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/megapix.png",Megapix · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/99108472897e2bec678ee8327ee1b51f/error.txt
+#EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/sonychannel.png",Sony Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sonychannel/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/sonychannel.png",Sony Channel · Reserva 1
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/sonychannel.png",Sony Channel · Reserva 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/ef1299567e767fb72a7a10f59819ff67/error.txt
+#EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://www.tvlogo.org/brazil/sony-movies-br.png",SONY Movies
+http://170.83.16.50/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="Space.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/space.png",Space
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/space/index.m3u8
+#EXTINF:-1 tvg-id="Space.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/space.png",Space · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/564ea182a7999a4912b3dd7a5952667a/error.txt
+#EXTINF:-1 tvg-id="StudioUniversal.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/studiouniversal.png",Studio Universal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/studiouniversal/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/studiouniversal.png",Studio Universal · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/f0f4a398bdadf454af77baf19f0c7935/error.txt
+#EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/telecineaction.png",Telecine Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcaction/index.m3u8
+#EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/telecineaction.png",Telecine Action · Reserva 1
+http://45.185.11.126:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/telecineaction.png",Telecine Action · Reserva 2
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/telecineaction
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/3606aba7e271b8f9b82f9a16ef594d84/error.txt
+#EXTINF:-1 tvg-id="TelecineCult.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/telecinecult.png",Telecine Cult
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tccult/index.m3u8
+#EXTINF:-1 tvg-id="TelecineFun.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/telecinefun.png",Telecine Fun
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcfun/index.m3u8
+#EXTINF:-1 tvg-id="TelecineFun.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/telecinefun.png",Telecine Fun · Reserva 1
+http://45.185.11.126:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="TelecineFun.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/telecinefun.png",Telecine Fun · Reserva 2
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/telecinefun
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/cfa5aa598b6cc8f6e53a94d06a134a83/error.txt
+#EXTINF:-1 tvg-id="TelecinePipoca.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png",Telecine Pipoca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcpipoca/index.m3u8
+#EXTINF:-1 tvg-id="TelecinePipoca.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png",Telecine Pipoca · Reserva 1
+#EXTVLCOPT:audio-language=pt-BR,por,pt
+http://45.185.11.126:8000/play/a08g/index.m3u8
+#EXTINF:-1 tvg-id="TelecinePremium.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/telecinepremium.png",Telecine Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcpremium/index.m3u8
+#EXTINF:-1 tvg-id="TelecineTouch.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/telecinetouch.png",Telecine Touch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tctouch/index.m3u8
+#EXTINF:-1 tvg-id="TelecineTouch.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/telecinetouch.png",Telecine Touch · Reserva 1
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/telecinetouch
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/8ec8a5da3881c2e358ec9aa68cfab33d/error.txt
+#EXTINF:-1 tvg-id="TNT.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/tnt.png",TNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tnt/index.m3u8
+#EXTINF:-1 tvg-id="TNT.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/tnt.png",TNT · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/303c2e29c8ae6e63faae6efeab27ac8a/error.txt
+#EXTINF:-1 tvg-id="TNTNovelas.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/tntnovelas.png",TNT Novelas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tntnovelas/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/tntnovelas.png",TNT Novelas · Reserva 1
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/tntnovelas
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/ce0c4cb1afbdff352fd4a61d42aa5b91/error.txt
+#EXTINF:-1 tvg-id="TNTSeries.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/tntseries.png",TNT Séries
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tntseries/index.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/tntseries.png",TNT Séries · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/81feca70d20d9c257efd4e6c042c6faa/error.txt
+#EXTINF:-1 tvg-id="UniversalTV.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/universaltv.png",Universal TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/universaltv/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTV.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/universaltv.png",Universal TV · Reserva 1
+#EXTVLCOPT:audio-language=pt-BR,por,pt
+http://45.185.11.126:8000/play/a0af/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTV.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/universaltv.png",Universal TV · Reserva 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/f99fa3501cf91c5a2ecef3159de89931/error.txt
+#EXTINF:-1 tvg-id="USANetwork.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://mondrian.claro.com.br/channels/inverse/usa.png",USA Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/usa/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Filmes e Séries" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/warnerchannel.png",Warner
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/warner/index.m3u8
+
+#EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="TV Aberta" tvg-quality="1080p" tvg-logo="https://i.imgur.com/Ikrj3lk.png",PlayTV
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+
+#EXTINF:-1 tvg-id="AE.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/ae.png",A&E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/aee/index.m3u8
+#EXTINF:-1 tvg-id="AE.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/ae.png",A&E · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/f2c99b341c105de44d865e733a1903be/error.txt
+#EXTINF:-1 tvg-id="Curta.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/curta.png",Curta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/c2b311e5c87525eb77b9761e54e41346/error.txt
+#EXTINF:-1 tvg-id="DiscoveryChannel.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverychannel/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png",Discovery Channel · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/79eab483fb1382926f37701f2e6c5ca6/error.txt
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/discoveryhh.png",Discovery Home & Health
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryhh/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/discoveryhh.png",Discovery Home & Health · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/b3b4936bdb2b1b3e7ceafa592527d096/error.txt
+#EXTINF:-1 tvg-id="DiscoveryID.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png",Discovery ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryid/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryID.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png",Discovery ID · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/6cf7a3ed02db8b6ef0cc25e2e0198572/error.txt
+#EXTINF:-1 tvg-id="DiscoveryScience.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/discoveryscience.png",Discovery Science
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryscience/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/discoveryscience.png",Discovery Science · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/497b4169c81862267a381c59d46a3fa8/error.txt
+#EXTINF:-1 tvg-id="DiscoveryTheater.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/discoverytheater.png",Discovery Theater
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverytheater/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTheater.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/discoverytheater.png",Discovery Theater · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/586d2fd29f1554cc9588bb83e14271d7/error.txt
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/discoveryturbo.png",Discovery Turbo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryturbo/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/discoveryworld.png",Discovery World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryworld/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/discoveryworld.png",Discovery World · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/a262f2da64ed2766262427bf81ad2cd2/error.txt
+#EXTINF:-1 tvg-id="History.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/history.png",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/history/index.m3u8
+#EXTINF:-1 tvg-id="History.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/history.png",History · Reserva 1
+http://170.83.16.50/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/history.png",History · Reserva 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/82b1b8d1e9ca24c72baad1bce7998b15/error.txt
+#EXTINF:-1 tvg-id="History2.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/history2.png",History 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/history2/index.m3u8
+#EXTINF:-1 tvg-id="History2.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Documentários" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/history2.png",History 2 · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/bc0098ff5c351bd721eab544ef9cb224/error.txt
+
+#EXTINF:-1 tvg-id="CartoonNetwork.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Infantil" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Infantil" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/cartoonito.png",Cartoonito
+#EXTVLCOPT:audio-language=pt-BR,por,pt
+http://45.185.11.126:8000/play/a0ae/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Infantil" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/discoverykids.png",Discovery Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverykids/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Infantil" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/discoverykids.png",Discovery Kids · Reserva 1
+#EXTVLCOPT:audio-language=pt-BR,por,pt
+http://45.185.11.126:8000/play/a0ad/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Infantil" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/discoverykids.png",Discovery Kids · Reserva 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/53ce10651a4dc91c26d17be5acd62fbc/error.txt
+#EXTINF:-1 tvg-id="Gloob.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Infantil" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/gloob.png",Gloob
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gloob/index.m3u8
+#EXTINF:-1 tvg-id="Gloob.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Infantil" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/gloob.png",Gloob · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/d552d6e6538ff7819fc132f3a91d8b65/error.txt
+#EXTINF:-1 tvg-id="Gloobinho.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Infantil" tvg-quality="720p" tvg-logo="https://logos.imperioapps.top/GLOBINHO.png",Gloobinho
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gloobinho/index.m3u8
+#EXTINF:-1 tvg-id="NickToonsBrasil.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Infantil" tvg-quality="480p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png",NickToons Brasil
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="Tooncast.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Infantil" tvg-quality="720p" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tooncast.png",Tooncast
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tooncast/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Infantil" tvg-quality="720p" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tooncast.png",Tooncast · Reserva 1
+http://170.83.16.50:80/TOONCAST/index.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Infantil" tvg-quality="720p" tvg-logo="https://logos.imperioapps.top/TV_RA_TIM_BUM.png",TV Rá Tim Bum
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvratimbum/index.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Infantil" tvg-quality="576p" tvg-logo="https://logos.imperioapps.top/TV_RA_TIM_BUM.png",TV Rá Tim Bum · Reserva 1
+http://186.219.52.187/ratimbum/index.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwim.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Variedades" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/adultswim.png",Adult Swim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/adultswim/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwim.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Variedades" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/adultswim.png",Adult Swim · Reserva 1
+#EXTVLCOPT:audio-language=pt-BR,por,pt
+http://45.185.11.126:8000/play/a06m/index.m3u8
+#EXTINF:-1 tvg-id="Arte1.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Variedades" tvg-quality="720p" tvg-logo="https://mondrian.claro.com.br/channels/inverse/arte1.png",Arte 1
+http://170.83.16.50/ARTE_1/index.m3u8
+#EXTINF:-1 tvg-id="BIS.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Variedades" tvg-quality="1080p" tvg-logo="http://www.fontedecanais.me/logos/canais/bis.png",BIS
+#EXTVLCOPT:audio-language=pt-BR,por,pt
+http://45.185.11.126:8000/play/a07w/index.m3u8
+#EXTINF:-1 tvg-id="BIS.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Variedades" tvg-quality="720p" tvg-logo="http://www.fontedecanais.me/logos/canais/bis.png",BIS · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/9f2957d2128504d7b7abed50efc1f0f7/error.txt
+#EXTINF:-1 tvg-id="FoodNetwork.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Variedades" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/foodnetwork.png",Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/foodnetwork/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Variedades" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/foodnetwork.png",Food Network · Reserva 1
+http://45.185.11.126:8000/play/a06j/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Variedades" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/foodnetwork.png",Food Network · Reserva 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/84d5b7f8c5bd0d9c03a15779fdc243da/error.txt
+#EXTINF:-1 tvg-id="GNT.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Variedades" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/gnt.png",GNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gnt/index.m3u8
+#EXTINF:-1 tvg-id="GNT.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Variedades" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/gnt.png",GNT · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/3ef2b3a3e22890fef8eb9f2252182313/error.txt
+#EXTINF:-1 tvg-id="HGTV.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Variedades" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/hgtv.png",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/77572f32b12cf24968bd894f73127f88/error.txt
+#EXTINF:-1 tvg-id="Multishow.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Variedades" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/multishow.png",Multishow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/multishow/index.m3u8
+#EXTINF:-1 tvg-id="Multishow.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Variedades" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/multishow.png",Multishow · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/d1071bcacfda1875e4dbf7500547359b/error.txt
+#EXTINF:-1 tvg-id="TLC.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Variedades" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/tlc.png",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/44476f41dd9a25f33352069faeebd80f/error.txt
+
+#EXTINF:-1 tvg-id="24HChaves.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="24 Horas" tvg-quality="480p" tvg-logo="https://img.faz-o-eli.online/24h.png",24H Chaves
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/eff311a40f4fa6231bdda8cd23e9f58a/error.txt
+#EXTINF:-1 tvg-id="24HDragonBallZ.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="24 Horas" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/24h.png",24H Dragon Ball Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/7a26e2c65c8c1dd964cc0892bbe48f9b/error.txt
+#EXTINF:-1 tvg-id="24HFriends.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="24 Horas" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/24h.png",24H Friends
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/e0ed6fdf255301347b5b62fff76ff045/error.txt
+#EXTINF:-1 tvg-id="24HOsSimpsons.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="24 Horas" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/24h.png",24H Os Simpsons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/fc82e1a2f655aa1165f527585450bf80/error.txt
+#EXTINF:-1 tvg-id="24HPicaPau.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="24 Horas" tvg-quality="480p" tvg-logo="https://img.faz-o-eli.online/24h.png",24H Pica Pau
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/a102ec44719ea1174ff05078565f7faa/error.txt
+#EXTINF:-1 tvg-id="24HTodoMundoOdeiaoCris.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="24 Horas" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/24h.png",24H Todo Mundo Odeia o Cris
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/d7a243ccc8f4c1f6775098c21b779f96/error.txt
+
+#EXTINF:-1 tvg-id="AFazenda181.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="PPV" tvg-quality="1080p" tvg-logo="https://img.faz-o-eli.online/afazenda2.png",A Fazenda 18 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/f585283a0990f913c7bb3de1fe408d41/error.txt
+#EXTINF:-1 tvg-id="AFazenda182.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="PPV" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/afazenda2.png",A Fazenda 18 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/a2d66ed401b3faf208d60b774b347c05/error.txt
+#EXTINF:-1 tvg-id="AFazenda185.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="PPV" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/afazenda2.png",A Fazenda 18 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/f318cd960de354f54400db86022f4ca0/error.txt
+
+#EXTINF:-1 tvg-id="GloboNews.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Notícias" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/globonews.png",GloboNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globonews/index.m3u8
+#EXTINF:-1 tvg-id="GloboNews.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Notícias" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/globonews.png",GloboNews · Reserva 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/ace1a6101d89527e47d56dce8b990d8e/error.txt
+#EXTINF:-1 tvg-id="BandNews.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Notícias" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/bandnews.png",Band News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandnews/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Notícias" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/bandnews.png",Band News · Reserva 1
+http://170.83.16.50/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" tvg-country="BR" tvg-language="pt-BR" group-title="Notícias" tvg-quality="720p" tvg-logo="https://img.faz-o-eli.online/bandnews.png",Band News · Reserva 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/b18c3177aec7306e630e0c1c7d7ea954/error.txt
+
 #EXTINF:-1 tvg-id="RecordTVInteriorSP.br@SD" tvg-country="BR" tvg-region="BR-SP" tvg-logo="https://i.imgur.com/VcHy0fu.png" group-title="Variedades",RecordTV Interior SP
 http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 tvg-id="SantaCeciliaTV.br@SD" tvg-country="BR" tvg-region="BR-SP" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Educação" tvg-quality="1080p",Santa Cecilia TV
@@ -421,14 +1004,8 @@ https://www.latinasat.com.br/hls/live/stream/index.m3u8
 https://umatv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="VEJAPlusTV.br@HD" tvg-country="BR" tvg-logo="https://i.imgur.com/n0pxHo4.png" group-title="Notícias" tvg-quality="1080p",VEJA+ TV
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
-#EXTINF:-1 tvg-id="ADBTV.pt@SD" tvg-country="PT" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" group-title="Religião" tvg-quality="1080p",ADB TV
-https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@Brazil" tvg-country="US" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="Filmes e Séries",Adrenalina Pura TV Brazil
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Portuguese" tvg-country="IN" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religião" tvg-quality="720p",Angel TV Portuguese
-https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ARTV.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="Legislativo" tvg-quality="720p",ARTV
-https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:-1 tvg-id="AvatarAlendadeAang.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png" group-title="Infantil",Avatar: A lenda de Aang
 https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@Brazil" tvg-country="US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantil",BabyFirst Brazil
@@ -441,8 +1018,6 @@ https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 #EXTINF:-1 tvg-id="CineTerror.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Filmes e Séries",Cine Terror BR
 https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
-#EXTINF:-1 tvg-id="CNNPortugal.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/bc6tYVZ.png" group-title="Notícias",CNN Portugal
-https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Comédia",Comedy Central Pluto TV BR
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralSouthPark.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png" group-title="Animação",Comedy Central South Park
@@ -453,18 +1028,12 @@ https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
 https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
 #EXTINF:-1 tvg-id="DiffrentStrokesArnold.us@Brazil" tvg-country="US" tvg-logo="https://i.imgur.com/jkmouY3.png" group-title="Filmes e Séries",Diff'rent Strokes Arnold
 https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
-#EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD" tvg-country="FR" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Notícias" tvg-quality="720p",Euronews Portuguese
-https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@Brazil" tvg-country="US" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comédia",FailArmy Brazil
 https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
-#EXTINF:-1 tvg-id="Famatv.pt@SD" tvg-country="PT" tvg-logo="https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg" group-title="Música" tvg-quality="1080p",Famatv
-https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-country="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Esportes" tvg-quality="720p",FIFA+ Portuguese
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmesSuspense.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Filmes e Séries",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
-#EXTINF:-1 tvg-id="FUELTV.pt@EMEA" tvg-country="PT" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Esportes" tvg-quality="1080p",FUEL TV
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-id="iCarly.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="Filmes e Séries",iCarly (United States)
 https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 #EXTINF:-1 tvg-id="JornadanasEstrelasANovaGeracao.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png" group-title="Filmes e Séries",Jornada nas Estrelas: A Nova Geracao
@@ -475,24 +1044,10 @@ https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
 https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
 #EXTINF:-1 tvg-id="KenanKel.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Filmes e Séries",Kenan & Kel BR
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
-#EXTINF:-1 tvg-id="KKTV.ao@SD" tvg-country="AO" tvg-logo="https://i.imgur.com/jWOB0oU.png" group-title="Religião" tvg-quality="1080p",KK TV
-https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KuriakosCine.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Filmes e Séries" tvg-quality="1080p",Kuriakos Cine
-https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KuriakosKids.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Animação" tvg-quality="1080p",Kuriakos Kids
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KuriakosMusic.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="Música" tvg-quality="1080p",Kuriakos Music
-http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/xdAW0D5.png" group-title="Religião" tvg-quality="1080p",Kuriakos TV
-https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MacGyver.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Clássicos",MacGyver (United States)
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
-#EXTINF:-1 tvg-id="ManaIgrejaOnline.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/0IUvfcJ.png" group-title="Religião" tvg-quality="1080p",Mana Igreja Online
-https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MasterChef.us@Brazil" tvg-country="US" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="Filmes e Séries",MasterChef
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
-#EXTINF:-1 tvg-id="MNTV.mz@SD" tvg-country="MZ" tvg-logo="https://mntv.co.mz/wp-content/uploads/2025/11/Prancheta-4_1-1.png" group-title="Negócios",MNTV
-https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
 #EXTINF:-1 tvg-id="MTVAreyoutheOne.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="Filmes e Séries",MTV Are you the One?
 https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Música" tvg-quality="1080p",MTV Biggest Pop BR
@@ -517,8 +1072,6 @@ https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 #EXTINF:-1 tvg-id="MTVShore.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="Entretenimento",MTV Shore
 https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
-#EXTINF:-1 tvg-id="MuzangalaTV.ao@SD" tvg-country="AO" tvg-logo="https://i.imgur.com/fBeaJoS.png" group-title="Música" tvg-quality="1080p",Muzangala TV
-https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 tvg-id="Naruto.us@Brazil" tvg-country="US" tvg-logo="https://i.imgur.com/M8X3Kvc.png" group-title="Animação",Naruto Brazil
 https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
 #EXTINF:-1 tvg-id="NCIS.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Filmes e Séries",NCIS (United States)
@@ -539,8 +1092,6 @@ https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
 #EXTINF:-1 tvg-id="OggyeasBaratasTontas.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="Infantil",Oggy e as Baratas Tontas
 https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
-#EXTINF:-1 tvg-id="ONFM.pt@SD" tvg-country="PT" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" group-title="Música" tvg-quality="720p",ON FM
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="OnePiece.us@BR" tvg-country="US" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="Animação",One Piece BR
 https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAliens.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png" group-title="Documentários",Pluto TV Aliens
@@ -643,72 +1194,10 @@ https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
 https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
 #EXTINF:-1 tvg-id="PlutoTVVidaReal.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png" group-title="Educação",Pluto TV Vida Real
 https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
-#EXTINF:-1 tvg-id="PortoCanal.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/DwziwMY.png" group-title="Variedades" tvg-quality="720p",Porto Canal
-https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ProntosocorroHistoriasDeEmergencia.us@Brazil" tvg-country="US" tvg-logo="https://i.imgur.com/0PkyJ3U.png" group-title="Educação",Pronto-socorro: Historias De Emergencia
 https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
-#EXTINF:-1 tvg-id="RadioSines.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/Oe6F1nL.png" group-title="Variedades" tvg-quality="720p",Radio Sines
-https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@BR" tvg-country="AT" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Ao ar livre" tvg-quality="1080p",Red Bull TV BR
 https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ReinoInfantil.mz@SD" tvg-country="MZ" tvg-logo="https://i.imgur.com/oAygpDw.png" group-title="Infantil",Reino Infantil
-https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
-#EXTINF:-1 tvg-id="RFPtv.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/I60nQuR.png" group-title="Música" tvg-quality="360p",RFPtv
-https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP1.pt@HD" tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png" group-title="Variedades",RTP 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2.pt@HD" tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png" group-title="Variedades",RTP 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt@HD" tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png" group-title="Variedades",RTP Acores
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt@HD" tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png" group-title="Variedades" tvg-quality="504p",RTP Acores
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt@SD" tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png" group-title="Variedades",RTP Acores SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt@SD" tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png" group-title="Variedades" tvg-quality="720p",RTP Acores SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAfrica.pt@SD" tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpafrica_2026.png" group-title="Variedades",RTP Africa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMadeira.pt@SD" tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira_2026.png" group-title="Variedades",RTP Madeira SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMemoria.pt@SD" tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmemoria_2026.png" group-title="Variedades",RTP Memoria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMundo.pt@SD" tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png" group-title="Variedades",RTP Mundo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPNoticias.pt@HD" tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" group-title="Notícias",RTP Noticias
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPNoticias.pt@HD" tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" group-title="Notícias" tvg-quality="504p",RTP Noticias
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPNoticias.pt@SD" tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" group-title="Notícias",RTP Noticias SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPNoticias.pt@SD" tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" group-title="Notícias" tvg-quality="720p",RTP Noticias SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SIC.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="Variedades",SIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTVLCOPT:http-referrer=https://sic.pt/
-https://sic.live.impresa.pt/sic.m3u8
-#EXTINF:-1 tvg-id="SICAltaDefinicao.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/VdPwyQv.png" group-title="Variedades" tvg-quality="1080p",SIC Alta Definicao
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
-#EXTINF:-1 tvg-id="SICNoticias.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/Gi6Q26M.png" group-title="Notícias",SIC Noticias
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTVLCOPT:http-referrer=https://sicnoticias.pt/
-https://sicnot.live.impresa.pt/sicnot.m3u8
-#EXTINF:-1 tvg-id="SICReplay.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/fj84mXz.png" group-title="Variedades" tvg-quality="1080p",SIC Replay
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Documentários",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1 tvg-id="SouthParkColecaoCartman.us@BR" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="Animação",South Park: Colecao Cartman
@@ -729,122 +1218,173 @@ https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 #EXTINF:-1 tvg-id="TurmadaMonica.us@Brazil" tvg-country="US" tvg-logo="https://i.imgur.com/nrvPPrW.png" group-title="Infantil" tvg-quality="720p",Turma da Monica
 https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
-#EXTINF:-1 tvg-id="TVCidade.cv@SD" tvg-country="CV" tvg-logo="https://i.imgur.com/gmSu21X.jpg" group-title="Música",TV Cidade
-https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMana1.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/6jNqpTP.png" group-title="Religião" tvg-quality="1080p",TV Mana 1
-https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMana2.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/VYNjVov.png" group-title="Religião" tvg-quality="1080p",TV Mana 2
-https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVManaBrasil.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/AFb712e.png" group-title="Religião" tvg-quality="1080p",TV Mana Brasil
-https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVManaMocambique.mz@SD" tvg-country="MZ" tvg-logo="https://i.imgur.com/R5YrV5s.png" group-title="Religião" tvg-quality="1080p",TV Mana Mocambique
-https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVZimbo.ao@SD" tvg-country="AO" tvg-logo="https://i.imgur.com/SFD8CBh.png" group-title="Variedades" tvg-quality="1080p",TV Zimbo
-https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-country="MZ" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" group-title="Variedades",TVM (Mozambique)
-https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
-#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-country="MZ" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" group-title="Variedades" tvg-quality="480p",TVM (Mozambique)
-http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVI.pt@SD" tvg-country="PT" tvg-logo="https://i.imgur.com/H8Tgl7m.png" group-title="Variedades",TVI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://zntx.dyndns.org:8085/hls/tvi.m3u8
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-country="BR" group-title="Variedades" tvg-quality="1080p",Rede Globo
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-country="BR" group-title="Variedades" tvg-quality="720p",Rede Globo
 https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 #EXTINF:-1 tvg-id="UnisulTV.br@SD" tvg-country="BR" group-title="Variedades" tvg-quality="720p",UNISUL TV
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
-#EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-country="US" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Infantil",Baby Shark TV
-https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-country="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Esportes",FIFA+
-https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8
-#EXTINF:-1 tvg-id="Homeful.ca@US" tvg-country="CA" tvg-logo="https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png" group-title="Variedades" tvg-quality="720p",Homeful
-https://jmp2.uk/plu-67603668f433320008760af1.m3u8
-#EXTINF:-1 tvg-id="NarutoShippuden.us@LatAm" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="Animação",Naruto Shippuden
-https://jmp2.uk/plu-64c92f965580090008084968.m3u8
-#EXTINF:-1 tvg-id="NatureTime.ca@SD" tvg-country="CA" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentários" tvg-quality="720p",NatureTime
-https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8
-#EXTINF:-1 tvg-id="PFLMMA.us@SD" tvg-country="US" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" group-title="Esportes" tvg-quality="720p",PFL MMA
-https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
-#EXTINF:-1 tvg-id="RealMadridTV.es@SD" tvg-country="ES" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Esportes" tvg-quality="720p",Realmadrid TV
-https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
-#EXTINF:-1 tvg-id="Runtime.us@SD" tvg-country="US" tvg-logo="https://i.imgur.com/2USCMvP.png" group-title="Filmes e Séries",Runtime
-https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
-#EXTINF:-1 tvg-id="Teletubbies.uk@SD" tvg-country="UK" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Infantil",Teletubbies
-https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
-#EXTINF:-1 tvg-id="TOPBarca.pl@SD" tvg-country="PL" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg" group-title="Variedades" tvg-quality="720p",Top Barça
-https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
-#EXTINF:-1 tvg-id="WorldPokerTour.us@US" tvg-country="US" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Esportes",World Poker Tour
-https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8
-#EXTINF:-1 tvg-id="YuGiOh.us@SD" tvg-country="US" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="Animação",Yu-Gi-Oh
-https://jmp2.uk/plu-63988a50be012600070f5db3.m3u8
-#EXTINF:-1 tvg-id="ZNation.us@SD" tvg-country="US" group-title="Filmes e Séries",Z Nation
-https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@HD" tvg-country="FR" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="Música" tvg-quality="1080p",Trace Brasil
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-id="SporTV2.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="1080p",SporTV 2
-http://195.178.110.110/sportv2/index.m3u8
-#EXTINF:-1 tvg-id="SporTV3.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="1080p",SporTV 3
-http://195.178.110.110/sportv3/index.m3u8
-#EXTINF:-1 tvg-id="SporTV3.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="720p",SporTV 3
-http://170.83.49.66:8083/SPORTV3HD/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="1080p",ESPN
-http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="720p",ESPN
-http://190.83.2.182:8090/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="1080p",ESPN 3
-http://190.83.2.182:8090/ESPN3/index.m3u8
-#EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="720p",ESPN 3
-http://181.78.197.59:8000/play/a081/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="1080p",ESPN 4
-http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="1080p",Band Sports
-https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="720p",Band Sports
-http://170.83.16.50/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="720p",Band Sports
-http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
-#EXTINF:-1 tvg-id="NSports.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="1080p",N Sports
-https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
-#EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="720p",WooHoo
-http://170.83.16.50/WOOHOO/index.m3u8
-#EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="720p",WooHoo
-http://186.219.52.187/woohoo/index.m3u8
-#EXTINF:-1 tvg-id="FishTV.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="1080p",Fish TV
-http://190.128.214.97:64333/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="FishTV.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="720p",Fish TV
-http://170.83.16.50/FISH_TV/index.m3u8
-#EXTINF:-1 tvg-id="Combate.br@SD" tvg-country="BR" group-title="Esportes" tvg-quality="720p",Combate
-http://143.14.134.107/167/index.m3u8
-#EXTINF:-1 tvg-id="TelecinePremium.br@SD" tvg-country="BR" group-title="Filmes e Séries",Telecine Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.185.15.154:9080/stream/28/index.m3u8
-#EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-country="BR" group-title="Filmes e Séries" tvg-quality="1080p",Telecine Action
-http://46.151.196.223:14326
-#EXTINF:-1 tvg-id="TelecineTouch.br@SD" tvg-country="BR" group-title="Filmes e Séries",Telecine Touch
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.185.15.154:9080/stream/29/index.m3u8
-#EXTINF:-1 tvg-id="TelecineFun.br@SD" tvg-country="BR" group-title="Filmes e Séries",Telecine Fun
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.185.15.154:9080/stream/63/index.m3u8
-#EXTINF:-1 tvg-id="TelecineCult.br@SD" tvg-country="BR" group-title="Filmes e Séries",Telecine Cult
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.185.15.154:9080/stream/64/index.m3u8
-#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Brazil" tvg-country="US" group-title="Filmes e Séries" tvg-quality="720p",TNT [Geo-blocked]
-http://15.204.246.24:8080/TNTHD/index.m3u8
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-country="US" group-title="Filmes e Séries" tvg-quality="720p",Studio Universal
-http://187.102.210.46/universo/index.m3u8
-#EXTINF:-1 tvg-id="AXN.br@SD" tvg-country="BR" group-title="Filmes e Séries" tvg-quality="720p",AXN
-http://170.83.16.50/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AXN.br@SD" tvg-country="BR" group-title="Filmes e Séries" tvg-quality="720p",AXN
-http://170.83.49.66:8083/AXNHD/index.m3u8
-#EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-country="BR" group-title="Filmes e Séries" tvg-quality="720p",Sony Channel
-http://170.83.16.50/SONY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-country="BR" group-title="Filmes e Séries" tvg-quality="720p",Sony Channel
-https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-country="BR" group-title="Filmes e Séries" tvg-quality="720p",Sony Movies
-http://45.177.114.115/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-country="BR" group-title="Filmes e Séries" tvg-quality="720p",Sony Movies
-http://170.83.16.50/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" tvg-country="US" group-title="Filmes e Séries" tvg-quality="720p",AMC
-http://170.83.49.66:8083/AMCHD/index.m3u8
+#EXTINF:-1 tvg-id="Band.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/1r5T6Pw.png" group-title="Variedades" tvg-quality="720p",Band
+http://138.204.86.4:8080/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/1r5T6Pw.png" group-title="Variedades" tvg-quality="720p",Band
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/index.m3u8
+#EXTINF:-1 tvg-id="Band.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/1r5T6Pw.png" group-title="Variedades",Band
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br@SD" tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png" group-title="Notícias",CNN Brasil
+https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br@SD" tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png" group-title="Notícias" tvg-quality="720p",CNN Brasil
+http://45.162.64.114/CNN_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br@SD" tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png" group-title="Notícias" tvg-quality="720p",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNBrasilMoney.br@LISTA" tvg-country="BR" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-brasil-money.png" group-title="Notícias",CNN Brasil Money
+https://amg01391-amg01391c57-amgplt0026.playout.now3.amagi.tv/playlist/amg01391-amg01391c57-amgplt0026/playlist.m3u8
+#EXTINF:-1 tvg-id="GETV.br@LISTA" tvg-country="BR" tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes" tvg-quality="1080p",GE TV
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="GETV.br@LISTA" tvg-country="BR" tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes" tvg-quality="1080p",GE TV
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GETV.br@LISTA" tvg-country="BR" tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes" tvg-quality="1080p",GE TV
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png" group-title="Notícias",Jovem Pan News
+https://amg01391-sbtinfast-amg01391c3-lg-us-8995.playouts.now.amagi.tv/playlist/amg01391-addigital-jovempan-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png" group-title="Notícias",Jovem Pan News
+https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png" group-title="Notícias" tvg-quality="1080p",Jovem Pan News
+http://186.219.52.187/jp_news/index.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Variedades" tvg-quality="720p",SBT Nacional
+http://138.204.86.4:8080/SBT_HD/index.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Variedades" tvg-quality="720p",SBT Nacional
+https://aovivo.maissbt.com/indexMobile.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Variedades" tvg-quality="1080p",SBT Nacional
+https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTNews.br@SD" tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" group-title="Notícias" tvg-quality="720p",SBT News
+https://sbtnews.maissbt.com/index.m3u8
+#EXTINF:-1 tvg-id="SBTNews.br@SD" tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" group-title="Notícias",SBT News
+https://sbtnews.maissbt.com/3.m3u8
+#EXTINF:-1 tvg-id="Record.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Variedades" tvg-quality="1080p",Record
+http://138.204.86.4:8080/RECORD/index.m3u8
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-country="BR" group-title="Variedades" tvg-quality="1080p",Rede Globo
+http://138.204.86.4:8080/GLOBO_HD/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="Variedades" tvg-quality="720p",Rede TV! SD
+http://45.162.64.114/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="Variedades" tvg-quality="1080p",Rede TV! SD
+https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-country="BR" tvg-region="BR-SP" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="Variedades" tvg-quality="1080p",TV Cultura
+https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-country="BR" tvg-region="BR-SP" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="Variedades" tvg-quality="1080p",TV Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/wnYsE3O.png" group-title="Ao ar livre" tvg-quality="720p",Terra Viva
+http://45.162.64.114/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-country="BR" tvg-region="BR-SP" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="Variedades" tvg-quality="1080p",TV Gazeta
+http://45.162.64.114/GAZETA/index.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-country="BR" tvg-region="BR-SP" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="Variedades" tvg-quality="720p",TV Gazeta
+http://45.162.64.114/TV_GAZETA/index.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-country="BR" tvg-region="BR-SP" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="Variedades",TV Gazeta
+https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Notícias" tvg-quality="1080p",Record News
+http://45.162.64.114/RECORD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Notícias" tvg-quality="720p",Record News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://meufut.top/record-news
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Notícias" tvg-quality="720p",Record News
+https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Notícias" tvg-quality="720p",Record News
+https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Notícias",Record News
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="Variedades" tvg-quality="720p",TV Cancao Nova
+http://45.162.64.114/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="Variedades",TV Cancao Nova
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="Religião" tvg-quality="720p",TV Aparecida
+https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="Religião" tvg-quality="720p",Rede Vida
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="Religião" tvg-quality="720p",Rede Vida
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="Ao ar livre" tvg-quality="720p",Canal Rural
+http://186.219.52.187/canal_rural/index.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/sFcOZeo.png" group-title="Notícias" tvg-quality="720p",AgroMais
+http://45.162.64.114/AGROMAIS/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="Variedades" tvg-quality="720p",Rede CNT Rio de Janeiro
+http://45.162.64.114/CNT/index.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/iuoXchN.png" group-title="Religião" tvg-quality="720p",TV Pai Eterno
+http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/iuoXchN.png" group-title="Religião" tvg-quality="1080p",TV Pai Eterno
+https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Variedades",Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceBrazuca.fr@HD" tvg-country="FR" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="Música" tvg-quality="720p",Trace Brasil
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="Legislativo" tvg-quality="480p",TV Camara
+http://45.162.64.114/TV_CAMARA/index.m3u8
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="Religião" tvg-quality="720p",TV Evangelizar
+http://45.162.64.114/EVANGELIZAR/index.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="Variedades" tvg-quality="720p",TV Justica
+http://45.162.64.114/TV_JUSTICA/index.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br@SD" tvg-country="BR" group-title="Religião" tvg-quality="720p",Novo Tempo
+http://45.162.64.114/NOVO_TEMPO/index.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br@SD" tvg-country="BR" group-title="Religião" tvg-quality="720p",Novo Tempo
+https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="Variedades" tvg-quality="480p",TV Senado
+http://45.162.64.114/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="RITTV.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/Unjs1wi.png" group-title="Religião",RIT TV
+https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/5XyopHf.png" group-title="Educação" tvg-quality="720p",AgroCanal
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="Variedades" tvg-quality="720p",SESC TV
+http://45.162.64.114/SESC_TV/index.m3u8
+#EXTINF:-1 tvg-id="TVideoNews.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Notícias",TVideoNews
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1659802033.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/LgynEBC.png" group-title="Educação" tvg-quality="720p",Canal Futura
+http://45.162.64.114/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="Variedades" tvg-quality="720p",Canal do Boi
+http://45.162.64.114/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 tvg-id="DumDum.br@SD" tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="Infantil" tvg-quality="720p",DumDum
+http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
+#EXTINF:-1 tvg-id="MasterChef.us@Brazil" tvg-country="US" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="Filmes e Séries",MasterChef
+https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/cb543d167c6c618784cb3760cef342a0f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7352db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a1af1c56953145f59647c0dd4ebdd4d20883448e7fa7099c93a68ace42d381c77efc02b036510f7a2fc98528cbfbb5d7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034d1c52c03f0204bcef7f8a228e0d5a19ff73a71c90e6a7e5bbc011eaac66e1174c86298122a2d9cf28173eea645c7e673d5e62e7559b158362bb90a43b810f4f8fc9ba8aec6bf9d083f4209079454a19b22e828d24798cf062d5377e3ccf048e989c3573c6e4ec9d5108453538ed28587d019288a4e2f1ab930970b5e2cfb3d622ab176b9826a38c0662b952531fe6f308269f5ac63a0f48cab556df596ec6acb42c3f94adeff09ac2d1b5c01b8fd651f66446fdfe36342612c930bb49d9aaf274933edf1ccecc91c6d546e59015acbc7e377d4df957953468f03683006657dfc33df67db0f5e136e984ea1cb2740c5577163b6dd703733419fcba38e94d9cc50c716fec6fe2b20285665a9496b036ad4b3cd14bd0f42707e52971c262499024949fe9ad9effad13a9b7c05109ca8a6054b0f3f8d3f8d662d6d5d57dc5c82626e/145/1920x1080_6046040/index.m3u8
+#EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="Esportes" tvg-quality="1080p",CazeTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimeChannelTV.br@LISTA" tvg-country="BR" tvg-logo="https://i.imgur.com/eHw2M6p.png" group-title="Infantil" tvg-quality="360p",Anime Channel TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://meufut.top/anime-tv
+https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="OtakuSignTV.br@LISTA" tvg-country="BR" tvg-logo="https://i.imgur.com/eHw2M6p.png" group-title="Infantil" tvg-quality="576p",Otaku Sign TV
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 tvg-id="Geekdot.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/jML1u4O.png" group-title="Animação" tvg-quality="720p",Geekdot
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="NBXTVKids.br@LISTA" tvg-country="BR" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil" tvg-quality="1080p",NBX TV Kids
+https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
+#EXTINF:-1 tvg-id="SBCKids.br@LISTA" tvg-country="BR" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil" tvg-quality="1080p",SBC Kids
+https://video01.brascast.com/rede1220/rede1220/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeCriancas.br@LISTA" tvg-country="BR" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil" tvg-quality="720p",Rede Crianças
+https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
+#EXTINF:-1 tvg-id="JetsonsTV.br@LISTA" tvg-country="BR" tvg-logo="https://i.imgur.com/PZcTfqV.png" group-title="Infantil" tvg-quality="480p",Jetsons TV
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 tvg-id="24HOsSmurfs.br@LISTA" tvg-country="BR" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas" tvg-quality="720p",24H Os Smurfs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://meufut.top/the-smurfs-tv
+https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
+#EXTINF:-1 tvg-id="TVACritica.br@LISTA" tvg-country="BR" tvg-logo="https://i.imgur.com/j51rBro.png" group-title="TV Aberta" tvg-quality="720p",TV A Crítica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://meufut.top/tv-a-critica
+https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-country="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Esportes" tvg-quality="216p",FIFA+ Portuguese
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://meufut.top/fifa
+https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="RuntimeAcao.br@LISTA" tvg-country="BR" tvg-logo="https://i.imgur.com/3rM8nL2.png" group-title="Filmes e Séries" tvg-quality="720p",Runtime Ação
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-id="TopTV.br@LISTA" tvg-country="BR" tvg-logo="https://i.imgur.com/aKbHjFO.png" group-title="Músicas" tvg-quality="1080p",Top TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+#EXTINF:-1 tvg-id="MovieSphereBrazil.br@LISTA" tvg-country="BR" tvg-logo="https://i.imgur.com/c6uFj7A.png" group-title="Filmes e Séries" tvg-quality="1080p",MovieSphere Brazil
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneClassics.br@LISTA" tvg-country="BR" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony-movies.png" group-title="Filmes e Séries" tvg-quality="720p",Sony One Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVClassicos.br@LISTA" tvg-country="BR" tvg-logo="https://i.imgur.com/c6uFj7A.png" group-title="Filmes e Séries" tvg-quality="720p",TV Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroCartoon.br@SD" tvg-country="BR" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="Clássicos",Retro Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
