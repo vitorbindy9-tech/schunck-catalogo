@@ -1,3332 +1,3332 @@
 {
  "http://138.204.86.4:8080/BAND_HD/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://138.204.86.4:8080/GLOBO_HD/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://138.204.86.4:8080/RECORD/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://138.204.86.4:8080/SBT_HD/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://170.83.16.50/AGRO_MAIS/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50/ARTE_1/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "HTTP 404",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://170.83.16.50/AXN/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50/BAND_NEWS/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50/BAND_SPORTS/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "HTTP 404",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://170.83.16.50/CANAL_DO_BOI/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50/CANCAO_NOVA/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50/FISH_TV/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50/FUTURA/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50/HISTORY/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50/RECORD_NEWS/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50/REDE_TV/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50/SONY_CHANNEL/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50/SONY_MOVIES/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50/TERRA_VIVA/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50/TV_EVANGELIZAR/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50/TV_JUSTICA/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50/TV_SENADO/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50/WOOHOO/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.16.50:80/TOONCAST/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.49.66:8083/AGROCANALHD/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.49.66:8083/CANALRURALHD/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.49.66:8083/FUTURAHD/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.49.66:8083/REDECNTHD/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.49.66:8083/REDEGOSPELHD/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.49.66:8083/REDETVHD/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.49.66:8083/SESCTVHD/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.83.49.66:8083/TVSENADOHD/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://170.84.165.204/CNT_HD/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://170.84.165.204/REDEVIDA_HD/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://170.84.165.204/Record_news/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://185.228.163.146:8000/play/a01y/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://186.219.52.187/agro_canal/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/canal_do_boi/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/canal_rural/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/cancao_nova/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/cnt/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/futura/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/gazeta/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/jp_news/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/novo_tempo/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/pai_eterno/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/ratimbum/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/record_news/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/rede_familia/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/rede_tv/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/rede_vida/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/seculo21/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/sesc_tv/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/tv_evangelizar/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/tv_justica/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/tv_senado/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://186.219.52.187/zoomoo/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8": {
   "detalhe": "sem resposta (tempo esgotado)",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://200.189.113.201/hls/tve.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://200.194.238.229:8383/live/primer/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://200.77.176.130:8000/udp/224.0.0.4:49152": {
   "detalhe": "MPEG-TS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://45.162.64.114/AGROMAIS/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/AGRO_CANAL/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/CANAL_DO_BOI/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/CANAL_EDUCACAO/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/CANCAO_NOVA/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/CNN_BRASIL/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/CNT/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/EVANGELIZAR/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/FUTURA/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/GAZETA/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/NOVO_TEMPO/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/RECORD_NEWS/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/REDE_TV/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/SESC_TV/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/TERRAVIVA/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/TV_APARECIDA/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/TV_BRASIL/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/TV_CAMARA/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/TV_CULTURA/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/TV_GAZETA/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/TV_JUSTICA/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/TV_PAI_ETERNO/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/TV_SENADO/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.162.64.114/ZOOMOO_KIDS/index.m3u8": {
   "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "http://45.177.114.115/AGROMAIS_HD/index.m3u8": {
   "detalhe": "sem resposta (tempo esgotado)",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://45.177.114.115/RECORD_NEWS/index.m3u8": {
   "detalhe": "sem resposta (tempo esgotado)",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://45.177.114.115/REDE_GOSPEL/index.m3u8": {
   "detalhe": "sem resposta (tempo esgotado)",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://45.177.114.115/TERRAVIVA/index.m3u8": {
   "detalhe": "sem resposta (tempo esgotado)",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://45.177.114.115/TV_BRASIL_2/index.m3u8": {
   "detalhe": "sem resposta (tempo esgotado)",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://45.177.114.115/agromais/index.m3u8": {
   "detalhe": "sem resposta (tempo esgotado)",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://45.185.11.126:8000/play/a058/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://45.185.11.126:8000/play/a059/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://45.185.11.126:8000/play/a05m/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://45.185.11.126:8000/play/a05n/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://45.185.11.126:8000/play/a06j/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://45.185.11.126:8000/play/a06m/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://45.185.11.126:8000/play/a06s/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://45.185.11.126:8000/play/a07t/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://45.185.11.126:8000/play/a07w/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://45.185.11.126:8000/play/a081/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://45.185.11.126:8000/play/a08g/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://45.185.11.126:8000/play/a08o/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://45.185.11.126:8000/play/a08s/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://45.185.11.126:8000/play/a0ad/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://45.185.11.126:8000/play/a0ae/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://45.185.11.126:8000/play/a0af/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://46.151.196.223:14244": {
   "detalhe": "MPEG-TS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://79.127.238.228:14173/": {
   "detalhe": "MPEG-TS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8": {
   "detalhe": "sem resposta (tempo esgotado)",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "lista HLS vazia",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8": {
   "detalhe": "sem resposta (tempo esgotado)",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8": {
   "detalhe": "sem resposta (tempo esgotado)",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8": {
   "detalhe": "HTTP 404",
-  "dia": "2026-11-15",
-  "falhas": 1,
+  "dia": "2026-11-16",
+  "falhas": 2,
   "ultimo_ok": "2026-11-14 16:28 UTC"
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/0f32e02cb62ba95871f1f65432fd4ae5/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/252d24a1ba8c1c56117b6c8383f3db97/error.txt": {
-  "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/2c33f0e024d3c361d4434c9c379d8eeb/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/303c2e29c8ae6e63faae6efeab27ac8a/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/3606aba7e271b8f9b82f9a16ef594d84/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/3ef2b3a3e22890fef8eb9f2252182313/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/3fd7f48cf317af5d6ff994282813e4d4/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/44476f41dd9a25f33352069faeebd80f/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/46cd8a19f0ce7ef4bde08a7d1959aed7/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/497b4169c81862267a381c59d46a3fa8/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/538c3083c58490c9dbf70382b96bc0f0/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/53ce10651a4dc91c26d17be5acd62fbc/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/564ea182a7999a4912b3dd7a5952667a/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/586d2fd29f1554cc9588bb83e14271d7/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/5f02b07c4905806243ca4df5c341f78f/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/66b106aec5fa5bcb832d606fccc80ce3/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/6cf7a3ed02db8b6ef0cc25e2e0198572/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/77572f32b12cf24968bd894f73127f88/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/79eab483fb1382926f37701f2e6c5ca6/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/7a26e2c65c8c1dd964cc0892bbe48f9b/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/7a324e1c3ae23c2697e74df88080caa2/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/7edfa600af97b048fa67e9ee8176807a/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/81feca70d20d9c257efd4e6c042c6faa/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/82b1b8d1e9ca24c72baad1bce7998b15/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/844ab4ed6b36e05b6be81336f67cfce2/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/84d5b7f8c5bd0d9c03a15779fdc243da/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/8ec8a5da3881c2e358ec9aa68cfab33d/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/98f6a64620cf9c9573efd968d3860f24/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/99108472897e2bec678ee8327ee1b51f/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/9f2957d2128504d7b7abed50efc1f0f7/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/a05247565148a9fa10e483c4ffe6e861/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/a102ec44719ea1174ff05078565f7faa/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/a262f2da64ed2766262427bf81ad2cd2/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/a2d66ed401b3faf208d60b774b347c05/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/a2f3afe7c8d29a91bb286fc41a19a6a2/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/ace1a6101d89527e47d56dce8b990d8e/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/b18c3177aec7306e630e0c1c7d7ea954/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/b3b4936bdb2b1b3e7ceafa592527d096/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/bc0098ff5c351bd721eab544ef9cb224/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/bd579bc2d9ed9add379ebddd77404d2f/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/c2b311e5c87525eb77b9761e54e41346/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/ce0c4cb1afbdff352fd4a61d42aa5b91/error.txt": {
-  "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "detalhe": "ConnectionResetError",
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/cf787dcc67b19017d949f7f1b626cc09/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/cfa5aa598b6cc8f6e53a94d06a134a83/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/d1071bcacfda1875e4dbf7500547359b/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/d51ab7927aa577a2cee4bfebe28f804f/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/d552d6e6538ff7819fc132f3a91d8b65/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/d7a243ccc8f4c1f6775098c21b779f96/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/e04a0c5b32b106ea6122385566ef1155/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/e0ed6fdf255301347b5b62fff76ff045/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/e434fc83edb2a4937afc55e6de464fad/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/ea2a7e6a7b67fd100434f8e70372722c/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/ee232fce870e4a976f07802176b3cf2b/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/ef1299567e767fb72a7a10f59819ff67/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/eff311a40f4fa6231bdda8cd23e9f58a/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/f0f4a398bdadf454af77baf19f0c7935/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/f2c99b341c105de44d865e733a1903be/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/f318cd960de354f54400db86022f4ca0/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/f585283a0990f913c7bb3de1fe408d41/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/f71b10d706e64cefcabf042aa1af1e31/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/f99fa3501cf91c5a2ecef3159de89931/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/fc82e1a2f655aa1165f527585450bf80/error.txt": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8": {
   "detalhe": "sem resposta (tempo esgotado)",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8": {
   "detalhe": "sem resposta (tempo esgotado)",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8": {
   "detalhe": "sem resposta (tempo esgotado)",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": "2026-11-14 15:07 UTC"
  },
  "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8": {
-  "detalhe": "HTTP 404",
-  "dia": "2026-11-15",
-  "falhas": 1,
-  "ultimo_ok": "2026-11-14 16:28 UTC"
+  "detalhe": "HLS",
+  "dia": "2026-11-16",
+  "falhas": 0,
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=": {
-  "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
-  "ultimo_ok": "2026-11-13 18:32 UTC"
+  "detalhe": "HLS",
+  "dia": "2026-11-16",
+  "falhas": 0,
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8": {
-  "detalhe": "conexão recusada",
-  "dia": "2026-11-15",
-  "falhas": 2,
-  "ultimo_ok": "2026-11-13 18:32 UTC"
+  "detalhe": "HLS",
+  "dia": "2026-11-16",
+  "falhas": 0,
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8": {
   "detalhe": "HTTP 404",
-  "dia": "2026-11-15",
-  "falhas": 1,
+  "dia": "2026-11-16",
+  "falhas": 2,
   "ultimo_ok": "2026-11-14 16:28 UTC"
  },
  "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://acesso.ecast.site:3648/live/ritlive.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/cb543d167c6c618784cb3760cef342a0f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7352db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a1af1c56953145f59647c0dd4ebdd4d20883448e7fa7099c93a68ace42d381c77efc02b036510f7a2fc98528cbfbb5d7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034d1c52c03f0204bcef7f8a228e0d5a19ff73a71c90e6a7e5bbc011eaac66e1174c86298122a2d9cf28173eea645c7e673d5e62e7559b158362bb90a43b810f4f8fc9ba8aec6bf9d083f4209079454a19b22e828d24798cf062d5377e3ccf048e989c3573c6e4ec9d5108453538ed28587d019288a4e2f1ab930970b5e2cfb3d622ab176b9826a38c0662b952531fe6f308269f5ac63a0f48cab556df596ec6acb42c3f94adeff09ac2d1b5c01b8fd651f66446fdfe36342612c930bb49d9aaf274933edf1ccecc91c6d546e59015acbc7e377d4df957953468f03683006657dfc33df67db0f5e136e984ea1cb2740c5577163b6dd703733419fcba38e94d9cc50c716fec6fe2b20285665a9496b036ad4b3cd14bd0f42707e52971c262499024949fe9ad9effad13a9b7c05109ca8a6054b0f3f8d3f8d662d6d5d57dc5c82626e/145/1920x1080_6046040/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist1080p.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://amg01391-amg01391c57-amgplt0026.playout.now3.amagi.tv/playlist/amg01391-amg01391c57-amgplt0026/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://amg01391-sbtinfast-amg01391c3-lg-us-8995.playouts.now.amagi.tv/playlist/amg01391-addigital-jovempan-lgus/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8": {
   "detalhe": "HTTP 404",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://aovivo.maissbt.com/indexMobile.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://app.tvufop.com.br/hls/tvufop.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://awtv.nuvemplay.live/hls/stream.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://br.conectmy.com.br/DespertarTV/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://canaleducacao-stream.ebc.com.br/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://canalgov-stream.ebc.com.br/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/playlist.m3u8": {
   "detalhe": "endereço não existe mais (DNS)",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://cdn-tiva-tvevangelizar-brasilstream-com-br.smartbit.co/hls/tvevangelizar/index.m3u8": {
   "detalhe": "endereço não existe mais (DNS)",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "lista HLS sem segmentos",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "detalhe": "application/vnd.apple.mpegurl",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8": {
-  "detalhe": "lista HLS sem segmentos",
-  "dia": "2026-11-15",
-  "falhas": 1,
-  "ultimo_ok": "2026-11-14 16:28 UTC"
+  "detalhe": "HLS",
+  "dia": "2026-11-16",
+  "falhas": 0,
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "detalhe": "application/vnd.apple.mpegurl",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "detalhe": "application/vnd.apple.mpegurl",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8": {
-  "detalhe": "HTTP 404",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "detalhe": "lista HLS sem segmentos",
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": "2026-11-13 17:42 UTC"
  },
  "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8": {
   "detalhe": "application/vnd.apple.mpegurl",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8": {
-  "detalhe": "lista HLS sem segmentos",
-  "dia": "2026-11-15",
-  "falhas": 1,
-  "ultimo_ok": "2026-11-14 16:28 UTC"
+  "detalhe": "HLS",
+  "dia": "2026-11-16",
+  "falhas": 0,
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "detalhe": "application/vnd.apple.mpegurl",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "lista HLS sem segmentos",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandsports/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/canalgoat/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/canaloff/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/combate/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus06/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus08/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn2/index.m3u8": {
-  "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn3/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn4/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn5/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn6/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/nsports/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiereclubes/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv2/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv3/index.m3u8": {
-  "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "detalhe": "sem resposta (tempo esgotado)",
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tnt/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/adultswim/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/aee/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/amcseries/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/axn/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandnews/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cartoonnetwork/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cinemax/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverychannel/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryhh/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryid/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverykids/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryscience/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverytheater/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryturbo/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryworld/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/foodnetwork/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globonews/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gloob/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gloobinho/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gnt/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbo/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbofamily/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbomundi/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/megapix/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboplus/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbopop/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbosignature/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboxtreme/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/history/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/history2/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/multishow/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sonychannel/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/space/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/studiouniversal/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcaction/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tccult/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcfun/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcpipoca/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcpremium/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tctouch/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tntnovelas/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tntseries/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tooncast/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvratimbum/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/universaltv/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/usa/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/warner/index.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 2,
+  "dia": "2026-11-16",
+  "falhas": 3,
   "ultimo_ok": ""
  },
  "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8": {
   "detalhe": "endereço não existe mais (DNS)",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://igrejamundial.nuvemplay.live/hls/stream.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://isaocorp.cloudecast.com/ngt/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://isaocorp.cloudecast.com/playtv/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://isaocorp.cloudecast.com/toptv/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8": {
   "detalhe": "HTTP 404",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8": {
   "detalhe": "HTTP 404",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-604b79c558393100078faeef.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8": {
-  "detalhe": "HTTP 404",
-  "dia": "2026-11-15",
-  "falhas": 2,
-  "ultimo_ok": "2026-11-14 15:07 UTC"
+  "detalhe": "HLS",
+  "dia": "2026-11-16",
+  "falhas": 0,
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://live.tcm10.com.br/tcm10hd/stream.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://maystreaming.cloudecast.com/redemeio/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://media.cdntvms.com.br/band_sat/index.m3u8": {
   "detalhe": "HTTP 404",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://media.cdntvms.com.br/record_nacional_sat/index.m3u8": {
   "detalhe": "HTTP 404",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8": {
   "detalhe": "HTTP 404",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://play.mbcbrasil.tv.br/playlist.m3u8": {
   "detalhe": "application/vnd.apple.mpegurl",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://play.redecinturaoverde.com.br/playlist.m3u8": {
   "detalhe": "application/vnd.apple.mpegurl",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://redebrasil.nuvemplay.live/hls/stream.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://sbtnews.maissbt.com/3.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://sbtnews.maissbt.com/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv1.srvif.com/anime/anime/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv1.srvif.com/classique/classique/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8": {
   "detalhe": "HTTP 404",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116": {
   "detalhe": "HTTP 400",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stream.ichibansys.com:3230/hybrid/play.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stream.ichibansys.com:3764/hybrid/play.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stream.ichibantv.com:3764/hybrid/play.m3u8": {
   "detalhe": "HLS (certificado inválido)",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8": {
-  "detalhe": "HTTP 404",
-  "dia": "2026-11-15",
-  "falhas": 1,
-  "ultimo_ok": "2026-11-14 16:28 UTC"
+  "detalhe": "HLS",
+  "dia": "2026-11-16",
+  "falhas": 0,
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://stream3.camara.gov.br/tv1/manifest.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://tv.nuvemplay.live/hls/40gtv/stream.m3u8": {
   "detalhe": "HLS (certificado inválido)",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://tvbrasil-stream.ebc.com.br/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8": {
-  "detalhe": "HLS",
-  "dia": "2026-11-15",
-  "falhas": 0,
+  "detalhe": "HTTP 404",
+  "dia": "2026-11-16",
+  "falhas": 1,
   "ultimo_ok": "2026-11-15 15:41 UTC"
  },
  "https://umatv.nuvemplay.live/hls/stream.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video01.brascast.com/bdctv/bdctv/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video01.brascast.com/rede1220/rede1220/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1659802033.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8": {
   "detalhe": "HTTP 403",
-  "dia": "2026-11-15",
-  "falhas": 3,
+  "dia": "2026-11-16",
+  "falhas": 4,
   "ultimo_ok": ""
  },
  "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://video24.mais.uol.com.br/live/6146.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  },
  "https://www.latinasat.com.br/hls/live/stream/index.m3u8": {
   "detalhe": "HLS",
-  "dia": "2026-11-15",
+  "dia": "2026-11-16",
   "falhas": 0,
-  "ultimo_ok": "2026-11-15 15:41 UTC"
+  "ultimo_ok": "2026-11-16 18:37 UTC"
  }
 }
