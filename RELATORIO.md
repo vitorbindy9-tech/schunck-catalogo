@@ -1,44 +1,39 @@
 # Verificação do catálogo
 
-Última verificação: 2026-11-16 18:37 UTC
+Última verificação: 2026-11-17 17:38 UTC
 
 | Resultado | Canais |
 | --- | ---: |
 | Na lista de origem | 375 |
-| Publicados no catálogo | 304 |
-| Publicados, mas falhando (em observação) | 26 |
-| Retirados após 3 dias seguidos de falha | 71 |
+| Publicados no catálogo | 305 |
+| Publicados, mas falhando (em observação) | 21 |
+| Retirados após 3 dias seguidos de falha | 70 |
 
 ## Em observação
 
 | Canal | Motivo | Dias com falha |
 | --- | --- | ---: |
-| Canal OFF | HTTP 403 | 3 |
-| ESPN 4 | HTTP 403 | 3 |
-| ESPN 5 | HTTP 403 | 3 |
-| AMC | sem resposta (tempo esgotado) | 3 |
-| Cinemax | HTTP 403 | 3 |
-| HBO2 | sem resposta (tempo esgotado) | 1 |
-| HBO Pop | HTTP 403 | 3 |
-| Telecine Action | HTTP 403 | 3 |
-| Telecine Fun | HTTP 403 | 3 |
-| Telecine Pipoca | HTTP 403 | 3 |
-| Universal TV | HTTP 403 | 3 |
-| Cartoonito | sem resposta (tempo esgotado) | 1 |
-| Discovery Kids | HTTP 403 | 3 |
-| Adult Swim | HTTP 403 | 3 |
-| Arte 1 | HTTP 404 | 1 |
-| BIS | sem resposta (tempo esgotado) | 3 |
-| Food Network | HTTP 403 | 3 |
-| TV Fronteira | HTTP 404 | 1 |
-| Blitstv | HTTP 403 | 4 |
-| Cultura Para | sem resposta (tempo esgotado) | 4 |
-| Rede TV! Mais | lista HLS sem segmentos | 1 |
-| SBT Interior | lista HLS sem segmentos | 1 |
-| TV Bahia | lista HLS vazia | 1 |
-| TV Natal | sem resposta (tempo esgotado) | 1 |
-| TV Sim Cachoeiro | HTTP 404 | 2 |
-| TV Vicosa | HTTP 404 | 2 |
+| Canal OFF | HTTP 403 | 4 |
+| ESPN 4 | HTTP 403 | 4 |
+| ESPN 5 | HTTP 403 | 4 |
+| AMC | sem resposta (tempo esgotado) | 4 |
+| Cinemax | HTTP 403 | 4 |
+| HBO2 | sem resposta (tempo esgotado) | 2 |
+| HBO Pop | HTTP 403 | 4 |
+| Telecine Action | HTTP 403 | 4 |
+| Telecine Fun | HTTP 403 | 4 |
+| Telecine Pipoca | HTTP 403 | 4 |
+| Universal TV | HTTP 403 | 4 |
+| Cartoonito | sem resposta (tempo esgotado) | 2 |
+| Discovery Kids | HTTP 403 | 4 |
+| Adult Swim | HTTP 403 | 4 |
+| BIS | sem resposta (tempo esgotado) | 4 |
+| Food Network | HTTP 403 | 4 |
+| TV Fronteira | HTTP 404 | 2 |
+| Blitstv | HTTP 403 | 5 |
+| Cultura Para | sem resposta (tempo esgotado) | 5 |
+| SBT Interior | lista HLS sem segmentos | 2 |
+| TV Natal | sem resposta (tempo esgotado) | 2 |
 
 ## Retirados do catálogo
 
@@ -47,9 +42,9 @@
 | Premiere Clubes | HTTP 403 | nunca |
 | SporTV | HTTP 403 | nunca |
 | SporTV 2 | HTTP 403 | nunca |
-| SporTV 3 | sem resposta (tempo esgotado) | nunca |
+| SporTV 3 | HTTP 403 | nunca |
 | ESPN | HTTP 403 | nunca |
-| ESPN 2 | sem resposta (tempo esgotado) | nunca |
+| ESPN 2 | HTTP 403 | nunca |
 | ESPN 3 | HTTP 403 | nunca |
 | ESPN 6 | HTTP 403 | nunca |
 | X Sports | HTTP 403 | nunca |
@@ -111,7 +106,6 @@
 | Fora Tedio TV | HTTP 404 | nunca |
 | RBATV | lista HLS sem segmentos | 2026-11-13 17:42 UTC |
 | TV Birigui | sem resposta (tempo esgotado) | nunca |
-| TV Brasil Oeste | HTTP 403 | 2026-11-14 15:07 UTC |
 | TV Destak | sem resposta (tempo esgotado) | nunca |
 | Pluto TV Karaoke por Stingray | HTTP 404 | nunca |
 | Rede Globo | HTTP 403 | nunca |
