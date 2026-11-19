@@ -1,25 +1,31 @@
 # Verificação do catálogo
 
-Última verificação: 2026-11-18 17:17 UTC
+Última verificação: 2026-11-19 17:24 UTC
 
 | Resultado | Canais |
 | --- | ---: |
 | Na lista de origem | 375 |
 | Publicados no catálogo | 290 |
-| Publicados, mas falhando (em observação) | 7 |
+| Publicados, mas falhando (em observação) | 13 |
 | Retirados após 3 dias seguidos de falha | 85 |
 
 ## Em observação
 
 | Canal | Motivo | Dias com falha |
 | --- | --- | ---: |
-| TV Fronteira | HTTP 404 | 3 |
-| Aratu On | lista HLS sem segmentos | 1 |
-| Blitstv | HTTP 403 | 6 |
-| Cultura Para | sem resposta (tempo esgotado) | 6 |
-| TV Brasil Oeste | HTTP 403 | 1 |
-| TV Natal | sem resposta (tempo esgotado) | 3 |
-| TV Zoom | lista HLS sem segmentos | 1 |
+| TV Fronteira | HTTP 404 | 4 |
+| 1001 Noites | HTTP 404 | 1 |
+| Aratu On | lista HLS sem segmentos | 2 |
+| Blitstv | HTTP 403 | 7 |
+| Canal Sete | sem resposta (tempo esgotado) | 1 |
+| Cultura Para | sem resposta (tempo esgotado) | 7 |
+| Plena TV | lista HLS sem segmentos | 1 |
+| RBATV | lista HLS sem segmentos | 1 |
+| Retro Cartoon | sem resposta (tempo esgotado) | 1 |
+| SBT Interior | lista HLS sem segmentos | 1 |
+| TV Brasil Oeste | HTTP 403 | 2 |
+| TV Natal | sem resposta (tempo esgotado) | 4 |
+| TV Sim Cachoeiro | HTTP 404 | 1 |
 
 ## Retirados do catálogo
 
