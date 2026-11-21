@@ -1,27 +1,30 @@
 # Verificação do catálogo
 
-Última verificação: 2026-11-20 16:59 UTC
+Última verificação: 2026-11-21 16:11 UTC
 
 | Resultado | Canais |
 | --- | ---: |
 | Na lista de origem | 375 |
 | Publicados no catálogo | 289 |
-| Publicados, mas falhando (em observação) | 9 |
+| Publicados, mas falhando (em observação) | 12 |
 | Retirados após 3 dias seguidos de falha | 86 |
 
 ## Em observação
 
 | Canal | Motivo | Dias com falha |
 | --- | --- | ---: |
-| TV Fronteira | HTTP 404 | 5 |
-| 1001 Noites | HTTP 404 | 2 |
-| Blitstv | HTTP 403 | 8 |
-| Cultura Para | sem resposta (tempo esgotado) | 8 |
-| SBT Interior | lista HLS sem segmentos | 2 |
-| TV Aparecida | lista HLS sem segmentos | 8 |
-| TV Arapuan | HTTP 404 | 1 |
-| TV Comunitaria | HTTP 404 | 1 |
-| TV Natal | sem resposta (tempo esgotado) | 5 |
+| TV Fronteira | HTTP 404 | 6 |
+| 1001 Noites | HTTP 404 | 3 |
+| AgroMais | sem resposta (tempo esgotado) | 9 |
+| Aratu On | lista HLS sem segmentos | 1 |
+| Blitstv | HTTP 403 | 9 |
+| Cultura Para | sem resposta (tempo esgotado) | 9 |
+| TV Arapuan | HTTP 404 | 2 |
+| TV Globo Brasilia | conexão recusada | 1 |
+| TV Guarapari | HTTP 404 | 1 |
+| TV Litoral RN | HTTP 404 | 1 |
+| TV Natal | sem resposta (tempo esgotado) | 6 |
+| TV Sul Bahia | HTTP 404 | 1 |
 
 ## Retirados do catálogo
 
@@ -108,8 +111,8 @@
 | TV Globo São Paulo | HTTP 403 | nunca |
 | EUTV | HTTP 403 | nunca |
 | Fora Tedio TV | HTTP 404 | nunca |
+| SBT Interior | lista HLS sem segmentos | 2026-11-18 17:17 UTC |
 | TV Birigui | sem resposta (tempo esgotado) | nunca |
-| TV Brasil Oeste | HTTP 403 | 2026-11-17 17:38 UTC |
 | TV Destak | sem resposta (tempo esgotado) | nunca |
 | Pluto TV Karaoke por Stingray | HTTP 404 | nunca |
 | Rede Globo | HTTP 403 | nunca |
