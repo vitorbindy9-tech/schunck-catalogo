@@ -1,29 +1,31 @@
 # Verificação do catálogo
 
-Última verificação: 2026-11-23 20:17 UTC
+Última verificação: 2026-11-24 19:31 UTC
 
 | Resultado | Canais |
 | --- | ---: |
 | Na lista de origem | 375 |
-| Publicados no catálogo | 290 |
-| Publicados, mas falhando (em observação) | 11 |
-| Retirados após 3 dias seguidos de falha | 85 |
+| Publicados no catálogo | 289 |
+| Publicados, mas falhando (em observação) | 13 |
+| Retirados após 3 dias seguidos de falha | 86 |
 
 ## Em observação
 
 | Canal | Motivo | Dias com falha |
 | --- | --- | ---: |
-| TV Fronteira | HTTP 404 | 8 |
-| Aratu On | lista HLS sem segmentos | 1 |
-| Blitstv | HTTP 403 | 11 |
-| Cultura Para | sem resposta (tempo esgotado) | 11 |
-| Fonte TV | HTTP 404 | 1 |
-| RBATV | lista HLS sem segmentos | 2 |
-| TV Bahia | sem resposta (tempo esgotado) | 1 |
-| TV Globo Brasilia | conexão recusada | 1 |
-| TV Natal | sem resposta (tempo esgotado) | 8 |
-| TV Zoom | lista HLS sem segmentos | 1 |
-| TV A Crítica | HTTP 404 | 1 |
+| TV Fronteira | HTTP 404 | 9 |
+| Aratu On | lista HLS sem segmentos | 2 |
+| Blitstv | HTTP 403 | 12 |
+| Box Kids TV | HTTP 404 | 1 |
+| Canal 38 | lista HLS sem segmentos | 1 |
+| Canal Sete | HTTP 404 | 1 |
+| Cultura Para | sem resposta (tempo esgotado) | 12 |
+| Futura | HTTP 404 | 1 |
+| Rede Minas | HTTP 404 | 1 |
+| Rede TV! Mais | lista HLS sem segmentos | 1 |
+| TV Brasil Oeste | HTTP 403 | 1 |
+| TV Natal | sem resposta (tempo esgotado) | 9 |
+| TV Pantanal MS | HTTP 404 | 1 |
 
 ## Retirados do catálogo
 
@@ -110,6 +112,7 @@
 | TV Globo São Paulo | HTTP 403 | nunca |
 | EUTV | HTTP 403 | nunca |
 | Fora Tedio TV | HTTP 404 | nunca |
+| RBATV | lista HLS sem segmentos | 2026-11-21 16:11 UTC |
 | TV Birigui | sem resposta (tempo esgotado) | nunca |
 | TV Destak | sem resposta (tempo esgotado) | nunca |
 | Pluto TV Karaoke por Stingray | HTTP 404 | nunca |
