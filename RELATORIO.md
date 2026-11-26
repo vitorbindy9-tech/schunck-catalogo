@@ -1,26 +1,28 @@
 # Verificação do catálogo
 
-Última verificação: 2026-11-25 18:39 UTC
+Última verificação: 2026-11-26 18:27 UTC
 
 | Resultado | Canais |
 | --- | ---: |
 | Na lista de origem | 375 |
-| Publicados no catálogo | 289 |
-| Publicados, mas falhando (em observação) | 8 |
-| Retirados após 3 dias seguidos de falha | 86 |
+| Publicados no catálogo | 288 |
+| Publicados, mas falhando (em observação) | 10 |
+| Retirados após 3 dias seguidos de falha | 87 |
 
 ## Em observação
 
 | Canal | Motivo | Dias com falha |
 | --- | --- | ---: |
-| TV Fronteira | HTTP 404 | 10 |
-| Blitstv | HTTP 403 | 13 |
-| Canal 38 | lista HLS sem segmentos | 2 |
-| Canal Sete | HTTP 404 | 2 |
-| Cultura Para | sem resposta (tempo esgotado) | 13 |
-| SBT Interior | lista HLS sem segmentos | 1 |
-| TV Brasil Oeste | HTTP 403 | 2 |
-| TV Natal | sem resposta (tempo esgotado) | 10 |
+| TV Fronteira | HTTP 404 | 11 |
+| Blitstv | HTTP 403 | 14 |
+| Box Kids TV | conexão recusada | 1 |
+| Canal Sete | HTTP 404 | 3 |
+| Cultura Para | sem resposta (tempo esgotado) | 14 |
+| Futura | conexão recusada | 1 |
+| Plenitude TV | HTTP 404 | 1 |
+| Retro Cartoon | sem resposta (tempo esgotado) | 1 |
+| TV Arapuan | HTTP 404 | 1 |
+| TV Natal | sem resposta (tempo esgotado) | 11 |
 
 ## Retirados do catálogo
 
@@ -109,6 +111,7 @@
 | EUTV | HTTP 403 | nunca |
 | Fora Tedio TV | HTTP 404 | nunca |
 | TV Birigui | sem resposta (tempo esgotado) | nunca |
+| TV Brasil Oeste | HTTP 403 | 2026-11-23 20:17 UTC |
 | TV Destak | sem resposta (tempo esgotado) | nunca |
 | Pluto TV Karaoke por Stingray | HTTP 404 | nunca |
 | Rede Globo | HTTP 403 | nunca |
