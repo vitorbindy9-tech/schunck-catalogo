@@ -1,6 +1,6 @@
 # Verificação do catálogo
 
-Última verificação: 2026-11-26 18:27 UTC
+Última verificação: 2026-11-27 18:13 UTC
 
 | Resultado | Canais |
 | --- | ---: |
@@ -13,16 +13,16 @@
 
 | Canal | Motivo | Dias com falha |
 | --- | --- | ---: |
-| TV Fronteira | HTTP 404 | 11 |
-| Blitstv | HTTP 403 | 14 |
-| Box Kids TV | conexão recusada | 1 |
-| Canal Sete | HTTP 404 | 3 |
-| Cultura Para | sem resposta (tempo esgotado) | 14 |
-| Futura | conexão recusada | 1 |
-| Plenitude TV | HTTP 404 | 1 |
-| Retro Cartoon | sem resposta (tempo esgotado) | 1 |
-| TV Arapuan | HTTP 404 | 1 |
-| TV Natal | sem resposta (tempo esgotado) | 11 |
+| TV Fronteira | HTTP 404 | 12 |
+| Blitstv | HTTP 403 | 15 |
+| Box Kids TV | conexão recusada | 2 |
+| Canal Sete | sem resposta (tempo esgotado) | 4 |
+| Cultura Para | sem resposta (tempo esgotado) | 15 |
+| Futura | conexão recusada | 2 |
+| SBT Interior | lista HLS sem segmentos | 1 |
+| TV Litoral RN | HTTP 404 | 1 |
+| TV Natal | sem resposta (tempo esgotado) | 12 |
+| TV Pantanal MS | HTTP 404 | 1 |
 
 ## Retirados do catálogo
 
